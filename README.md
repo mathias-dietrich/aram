@@ -1,5 +1,7 @@
 # aram
-Autonomous Resources Allocation for energy logistics in multi cloud environments
+Autonomous Resources Allocation in multi-cloud environments
+
+Example: energy and logistics.
 
 Reference:
 The Green New Deal: https://en.wikipedia.org/wiki/Green_New_Deal
