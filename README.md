@@ -1,2 +1,2 @@
 # aram
-Autonomous Resource Allocation for Multi cloud environments in energy and logistics
+Autonomous Resources Allocation for energy logistics in multi cloud environments
