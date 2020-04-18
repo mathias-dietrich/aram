@@ -1,7 +1,7 @@
 # aram
 Autonomous Resources Allocation in multi-cloud environments
 
-Example Domains: Energy, Logistics, Autonomous Vehicles, Health
+Example Domains: Energy, Logistics, Self-Driving Car, Health
 
 Reference:
 The Green New Deal: https://en.wikipedia.org/wiki/Green_New_Deal
