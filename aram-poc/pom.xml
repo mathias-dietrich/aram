@@ -44,6 +44,19 @@
       <artifactId>rest-assured</artifactId>
       <scope>test</scope>
     </dependency>
+    <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+      		<groupId>io.quarkus</groupId>
+      		<artifactId>quarkus-kubernetes</artifactId>
+    	</dependency>
+   		 <dependency>
+      		<groupId>io.quarkus</groupId>
+     	 <artifactId>quarkus-container-image-jib</artifactId>
+     	 </dependency>
   </dependencies>
   <build>
     <plugins>
